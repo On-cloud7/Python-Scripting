@@ -22,7 +22,9 @@
 ```python
 print("Hello, DevOps World!")
 
-## 🖥️ What is Shell Scripting?
+```python
+
+### 🖥️ What is Shell Scripting?
 
 **Shell scripting** is a method of writing a sequence of commands in a script file that is executed by a **shell** (commonly Bash) to automate tasks in **Linux/Unix-based systems**.
 
